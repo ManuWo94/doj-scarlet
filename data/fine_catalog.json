@@ -1,0 +1,380 @@
+[
+    {
+        "id": 1,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a71 Mord",
+        "description": "Mord",
+        "amount": 1000,
+        "prison_days": 60,
+        "notes": "Justiz"
+    },
+    {
+        "id": 2,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a72 Totschlag",
+        "description": "Totschlag",
+        "amount": 800,
+        "prison_days": 40,
+        "notes": "Justiz"
+    },
+    {
+        "id": 3,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a73 K\u00f6rperverletzung",
+        "description": "K\u00f6rperverletzung",
+        "amount": 500,
+        "prison_days": 30,
+        "notes": ""
+    },
+    {
+        "id": 4,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a74 Notwehr",
+        "description": "Notwehr",
+        "amount": 0,
+        "prison_days": 0,
+        "notes": ""
+    },
+    {
+        "id": 5,
+        "category": "I. Vergehen an Personen",
+        "violation": "$5 T\u00f6tung von Nutztieren",
+        "description": "T\u00f6tung von Nutztieren",
+        "amount": 500,
+        "prison_days": 25,
+        "notes": ""
+    },
+    {
+        "id": 6,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a76 Unerlaubtes Mitf\u00fchren von Wildtieren in St\u00e4dte",
+        "description": "Unerlaubtes Mitf\u00fchren von Wildtieren in St\u00e4dte",
+        "amount": 200,
+        "prison_days": 0,
+        "notes": ""
+    },
+    {
+        "id": 7,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a77 Fahrl\u00e4ssiges Herbeif\u00fchren einer Lebensgefahr",
+        "description": "Fahrl\u00e4ssiges Herbeif\u00fchren einer Lebensgefahr",
+        "amount": 400,
+        "prison_days": 35,
+        "notes": ""
+    },
+    {
+        "id": 8,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a78 Unterlassene Hilfeleistung",
+        "description": "Unterlassene Hilfeleistung",
+        "amount": 200,
+        "prison_days": 20,
+        "notes": ""
+    },
+    {
+        "id": 9,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a79 Behinderung von \u00e4rztlichen Behandlungen",
+        "description": "Behinderung von \u00e4rztlichen Behandlungen",
+        "amount": 200,
+        "prison_days": 20,
+        "notes": ""
+    },
+    {
+        "id": 10,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a710 Bankraub",
+        "description": "Bankraub",
+        "amount": 1000,
+        "prison_days": 60,
+        "notes": ""
+    },
+    {
+        "id": 11,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a711 Raub",
+        "description": "Raub",
+        "amount": 800,
+        "prison_days": 45,
+        "notes": ""
+    },
+    {
+        "id": 12,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a712 Diebstahl",
+        "description": "Diebstahl",
+        "amount": 250,
+        "prison_days": 25,
+        "notes": ""
+    },
+    {
+        "id": 13,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a713 Identit\u00e4tsdiebstahl",
+        "description": "Identit\u00e4tsdiebstahl",
+        "amount": 400,
+        "prison_days": 40,
+        "notes": ""
+    },
+    {
+        "id": 14,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a714 Betrug",
+        "description": "Betrug",
+        "amount": 400,
+        "prison_days": 40,
+        "notes": ""
+    },
+    {
+        "id": 15,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a715 Sachbesch\u00e4digung",
+        "description": "Sachbesch\u00e4digung",
+        "amount": 200,
+        "prison_days": 0,
+        "notes": ""
+    },
+    {
+        "id": 16,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a716 Unlautere Gesch\u00e4fte",
+        "description": "Unlautere Gesch\u00e4fte",
+        "amount": 300,
+        "prison_days": 20,
+        "notes": ""
+    },
+    {
+        "id": 17,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a717 Besitz und Handel mit illegalen Gegenst\u00e4nden",
+        "description": "Besitz und Handel mit illegalen Gegenst\u00e4nden",
+        "amount": 700,
+        "prison_days": 40,
+        "notes": ""
+    },
+    {
+        "id": 18,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a718 Geiselnahme",
+        "description": "Geiselnahme",
+        "amount": 1000,
+        "prison_days": 60,
+        "notes": ""
+    },
+    {
+        "id": 19,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a719 Entf\u00fchrung",
+        "description": "Entf\u00fchrung",
+        "amount": 700,
+        "prison_days": 40,
+        "notes": ""
+    },
+    {
+        "id": 20,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a720 Freiheitsberaubung",
+        "description": "Freiheitsberaubung",
+        "amount": 400,
+        "prison_days": 30,
+        "notes": ""
+    },
+    {
+        "id": 21,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a721 Erpressung",
+        "description": "Erpressung",
+        "amount": 300,
+        "prison_days": 30,
+        "notes": ""
+    },
+    {
+        "id": 22,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a722 Bedrohung",
+        "description": "Bedrohung",
+        "amount": 300,
+        "prison_days": 20,
+        "notes": ""
+    },
+    {
+        "id": 23,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a723 N\u00f6tigung",
+        "description": "N\u00f6tigung",
+        "amount": 150,
+        "prison_days": 10,
+        "notes": ""
+    },
+    {
+        "id": 24,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a724 Widerstand gegen die Staatsgewalt",
+        "description": "Widerstand gegen die Staatsgewalt",
+        "amount": 400,
+        "prison_days": 30,
+        "notes": ""
+    },
+    {
+        "id": 25,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a725 Missachtung beh\u00f6rdlicher Ma\u00dfnahmen",
+        "description": "Missachtung beh\u00f6rdlicher Ma\u00dfnahmen",
+        "amount": 400,
+        "prison_days": 30,
+        "notes": ""
+    },
+    {
+        "id": 26,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a726 Gef\u00e4ngnisausbruch",
+        "description": "Gef\u00e4ngnisausbruch",
+        "amount": 400,
+        "prison_days": 60,
+        "notes": ""
+    },
+    {
+        "id": 27,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a727 Behinderung von Ermittlungsverfahren",
+        "description": "Behinderung von Ermittlungsverfahren",
+        "amount": 1000,
+        "prison_days": 100,
+        "notes": ""
+    },
+    {
+        "id": 28,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a728 Strafvereitelung",
+        "description": "Strafvereitelung",
+        "amount": 200,
+        "prison_days": 20,
+        "notes": ""
+    },
+    {
+        "id": 29,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a729 Amtsanma\u00dfung",
+        "description": "Amtsanma\u00dfung",
+        "amount": 300,
+        "prison_days": 30,
+        "notes": "Justiz"
+    },
+    {
+        "id": 30,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a730 Selbstjustiz",
+        "description": "Selbstjustiz",
+        "amount": 400,
+        "prison_days": 40,
+        "notes": ""
+    },
+    {
+        "id": 31,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a731 Meineid",
+        "description": "Meineid",
+        "amount": 300,
+        "prison_days": 30,
+        "notes": "Justiz"
+    },
+    {
+        "id": 32,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a732 Bestechung und Bestechlichkeit",
+        "description": "Bestechung und Bestechlichkeit",
+        "amount": 500,
+        "prison_days": 30,
+        "notes": "Justiz - Aufdr\u00f6seln nach Bestechung und einzeln Bestechlichkeit (weil viel schlimmer)"
+    },
+    {
+        "id": 33,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a733 Urkundenf\u00e4lschung",
+        "description": "Urkundenf\u00e4lschung",
+        "amount": 400,
+        "prison_days": 30,
+        "notes": "Justiz"
+    },
+    {
+        "id": 34,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a734 Hochverrat",
+        "description": "Hochverrat",
+        "amount": 0.01,
+        "prison_days": 1,
+        "notes": "Justiz"
+    },
+    {
+        "id": 35,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a735 Korruption und Veruntreuung",
+        "description": "Korruption und Veruntreuung",
+        "amount": 0.03,
+        "prison_days": 1,
+        "notes": "Justiz"
+    },
+    {
+        "id": 36,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a736 Vermummung in der \u00d6ffentlichkeit",
+        "description": "Vermummung in der \u00d6ffentlichkeit",
+        "amount": 200,
+        "prison_days": 0,
+        "notes": ""
+    },
+    {
+        "id": 37,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a737 Unsittliches Verhalten",
+        "description": "Unsittliches Verhalten",
+        "amount": 200,
+        "prison_days": 0,
+        "notes": ""
+    },
+    {
+        "id": 38,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a738 Fahrl\u00e4ssige Nutzung von Reittieren",
+        "description": "Fahrl\u00e4ssige Nutzung von Reittieren",
+        "amount": 200,
+        "prison_days": 0,
+        "notes": ""
+    },
+    {
+        "id": 39,
+        "category": "I. Vergehen an Personen",
+        "violation": "\u00a739 Angeln",
+        "description": "Angeln",
+        "amount": 100,
+        "prison_days": 0,
+        "notes": ""
+    },
+    {
+        "id": 40,
+        "category": "II. Waffengesetz",
+        "violation": "\u00a72 Tragen von Waffen in der Stadt",
+        "description": "Tragen von Waffen in der Stadt",
+        "amount": 250,
+        "prison_days": 0,
+        "notes": ""
+    },
+    {
+        "id": 41,
+        "category": "II. Waffengesetz",
+        "violation": "\u00a73 Verbotene Waffen",
+        "description": "Verbotene Waffen",
+        "amount": 300,
+        "prison_days": 25,
+        "notes": ""
+    },
+    {
+        "id": 42,
+        "category": "II. Waffengesetz",
+        "violation": "\u00a76 Missbrauch von Waffen",
+        "description": "Missbrauch von Waffen",
+        "amount": 200,
+        "prison_days": 15,
+        "notes": ""
+    }
+]

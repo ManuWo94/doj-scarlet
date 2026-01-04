@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "service": "Ausstellung einer Heiratsurkunde",
+        "description": "Rechtsg\u00fcltige Bescheinigung einer Eheschlie\u00dfung ohne Namens\u00e4nderung.",
+        "price": 300,
+        "process_time": "Sofort",
+        "notes": "Beide Partner m\u00fcssen anwesend sein"
+    },
+    {
+        "id": 4,
+        "service": "Scheidungsurkunde",
+        "description": "Scheidung von Ehepartner mit rechtsg\u00fcltiger Eheschlie\u00dfung.",
+        "price": 1000,
+        "process_time": "Sofort",
+        "notes": "Ausreichend wenn ein Ehepartner die Scheidung m\u00f6chte."
+    },
+    {
+        "id": 5,
+        "service": "Eheschlie\u00dfung und Ausstellung einer Heiratsurkunde (mit oder ohne Namens\u00e4nderung)",
+        "description": "Gesamter Prozess der Eheschlie\u00dfung mit Heiratsurkunde und Namens\u00e4nderung (optional auch ohne).",
+        "price": 3000,
+        "process_time": "3 - 5 Tage",
+        "notes": "Anwesenheit und Zustimmung des Paares."
+    },
+    {
+        "id": 6,
+        "service": "Namens\u00e4nderung",
+        "description": "Aufgrund einer Hochzeit",
+        "price": 1000,
+        "process_time": "3 Tage",
+        "notes": "Mit Begr\u00fcndung z.B. durch Beantragung einer Hochzeit \/ Heiratsurkunde."
+    },
+    {
+        "id": 7,
+        "service": "Waffenlizenz",
+        "description": "Ausstellung einer Langwaffenlizenz nach begr\u00fcndetem Antrag.",
+        "price": 1000,
+        "process_time": "3 - 5 Tage",
+        "notes": "3 Monate g\u00fcltig, dann Weiterbewilligung n\u00f6tig. (Pr\u00fcfung auf Straftaten mit Tatwaffen)\r\nWerbezwecke sind keine ausreichenden Gr\u00fcnde!"
+    },
+    {
+        "id": 8,
+        "service": "Anwaltslizenz",
+        "description": "Ausstellung einer Anwaltslizenz nach ausreichender Schulung.",
+        "price": 1000,
+        "process_time": "5 - 10 Tage",
+        "notes": "Teilnahme an Schulungen und Rechtsanwaltspr\u00fcfung notwendig. Dauerhaft g\u00fcltig, muss nicht verl\u00e4ngert werden."
+    }
+]

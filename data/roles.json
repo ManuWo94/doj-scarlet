@@ -1,0 +1,194 @@
+[
+    {
+        "id": "chief_justice",
+        "name": "Chief Justice",
+        "description": "Oberster Richter und Systemadministrator",
+        "level": 1,
+        "department": "Leadership",
+        "permissions": null
+    },
+    {
+        "id": "senior_associate_justice",
+        "name": "Senior Associate Justice",
+        "description": "Stellvertretender oberster Richter",
+        "level": 2,
+        "department": "Leadership",
+        "permissions": null
+    },
+    {
+        "id": "attorney_general",
+        "name": "Attorney General",
+        "description": "Leiter der Staatsanwaltschaft",
+        "level": 2,
+        "department": "Leadership",
+        "permissions": null
+    },
+    {
+        "id": "district_court_judge",
+        "name": "District Court Judge",
+        "description": "Bezirksrichter",
+        "level": 3,
+        "department": "Judicial",
+        "permissions": null
+    },
+    {
+        "id": "judge",
+        "name": "Judge",
+        "description": "Richter",
+        "level": 4,
+        "department": "Judicial",
+        "permissions": null
+    },
+    {
+        "id": "magistrate",
+        "name": "Magistrate",
+        "description": "Magistratsrichter",
+        "level": 5,
+        "department": "Judicial",
+        "permissions": null
+    },
+    {
+        "id": "junior_magistrate",
+        "name": "Junior Magistrate",
+        "description": "Magistratsrichter in Ausbildung",
+        "level": 6,
+        "department": "Judicial",
+        "permissions": null
+    },
+    {
+        "id": "district_attorney",
+        "name": "District Attorney",
+        "description": "Bezirksstaatsanwalt",
+        "level": 3,
+        "department": "Prosecution",
+        "permissions": null
+    },
+    {
+        "id": "senior_prosecutor",
+        "name": "Senior Prosecutor",
+        "description": "Leitender Staatsanwalt",
+        "level": 4,
+        "department": "Prosecution",
+        "permissions": null
+    },
+    {
+        "id": "prosecutor",
+        "name": "Prosecutor",
+        "description": "Staatsanwalt",
+        "level": 5,
+        "department": "Prosecution",
+        "permissions": null
+    },
+    {
+        "id": "junior_prosecutor",
+        "name": "Junior Prosecutor",
+        "description": "Staatsanwalt in Ausbildung",
+        "level": 6,
+        "department": "Prosecution",
+        "permissions": null
+    },
+    {
+        "id": "director",
+        "name": "Director",
+        "description": "Direktor des U.S. Marshal Service",
+        "level": 3,
+        "department": "Marshal Service",
+        "permissions": null
+    },
+    {
+        "id": "commander",
+        "name": "Commander",
+        "description": "Kommandant des U.S. Marshal Service",
+        "level": 4,
+        "department": "Marshal Service",
+        "permissions": null
+    },
+    {
+        "id": "senior_deputy",
+        "name": "Senior Deputy",
+        "description": "Leitender Deputy Marshal",
+        "level": 5,
+        "department": "Marshal Service",
+        "permissions": null
+    },
+    {
+        "id": "deputy",
+        "name": "Deputy",
+        "description": "Deputy Marshal",
+        "level": 6,
+        "department": "Marshal Service",
+        "permissions": null
+    },
+    {
+        "id": "junior_deputy",
+        "name": "Junior Deputy",
+        "description": "Junior Deputy Marshal",
+        "level": 7,
+        "department": "Marshal Service",
+        "permissions": null
+    },
+    {
+        "id": "trainee",
+        "name": "Trainee",
+        "description": "Marshal Service Trainee",
+        "level": 8,
+        "department": "Marshal Service",
+        "permissions": null
+    },
+    {
+        "id": "president",
+        "name": "President",
+        "description": "Pr\u00e4sident der Vereinigten Staaten",
+        "level": 1,
+        "department": "External",
+        "permissions": null
+    },
+    {
+        "id": "secretary",
+        "name": "Secretary",
+        "description": "Staatssekret\u00e4r",
+        "level": 2,
+        "department": "External",
+        "permissions": null
+    },
+    {
+        "id": "army",
+        "name": "Army",
+        "description": "Milit\u00e4r",
+        "level": 3,
+        "department": "External",
+        "permissions": null
+    },
+    {
+        "id": "sheriff",
+        "name": "Sheriff",
+        "description": "Sheriff",
+        "level": 3,
+        "department": "External",
+        "permissions": null
+    },
+    {
+        "id": "administrative_assistant",
+        "name": "Administrative Assistant",
+        "description": "Verwaltungsassistent",
+        "level": 5,
+        "department": "Administration",
+        "permissions": null
+    },
+    {
+        "id": "student",
+        "name": "Student",
+        "description": "Student\/Praktikant",
+        "level": 9,
+        "department": "Prosecution",
+        "permissions": null
+    },
+    {
+        "id": "administrator",
+        "name": "Administrator",
+        "description": "Systemadministrator (technisch)",
+        "level": 1,
+        "department": "Administration",
+        "permissions": null
+    }
+]

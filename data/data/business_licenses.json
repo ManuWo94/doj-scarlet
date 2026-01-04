@@ -1,0 +1,95 @@
+[
+    {
+        "id": "68222f67969a13.32307011",
+        "name": "Saloon Test",
+        "owner_name": "Testperson",
+        "owner_telegram": "21",
+        "deputy_name": "",
+        "deputy_telegram": "",
+        "foundation_date": "2025-05-07",
+        "license_date": "2025-05-12",
+        "license_renewal_date": "2025-05-12",
+        "license_duration": 1,
+        "license_expiry": "2025-06-09",
+        "remaining_days_added": 0,
+        "notifications": {
+            "pre_warning_sent": false,
+            "expiry_notice_sent": false
+        },
+        "licenses": [],
+        "attachments": [],
+        "created_by": "admin",
+        "created_at": "2025-05-12 17:27:03",
+        "updated_by": "admin",
+        "updated_at": "2025-05-12 17:27:03",
+        "status": {
+            "status": "green",
+            "days_remaining": 28,
+            "text": "G\u00fcltig",
+            "color_class": "bg-success",
+            "needs_action": false
+        }
+    },
+    {
+        "id": "6822307fd921d6.35482760",
+        "name": "Valentine B\u00fcchsenmacher",
+        "owner_name": "Ich wei\u00df wer du bist",
+        "owner_telegram": "22",
+        "deputy_name": "",
+        "deputy_telegram": "",
+        "foundation_date": "2025-05-14",
+        "license_date": "2025-05-12",
+        "license_renewal_date": "2025-05-12",
+        "license_duration": 1,
+        "license_expiry": "2025-06-09",
+        "remaining_days_added": 0,
+        "notifications": {
+            "pre_warning_sent": false,
+            "expiry_notice_sent": false
+        },
+        "licenses": [],
+        "attachments": [],
+        "created_by": "admin",
+        "created_at": "2025-05-12 17:31:43",
+        "updated_by": "admin",
+        "updated_at": "2025-05-12 17:31:43",
+        "status": {
+            "status": "green",
+            "days_remaining": 28,
+            "text": "G\u00fcltig",
+            "color_class": "bg-success",
+            "needs_action": false
+        }
+    },
+    {
+        "id": "682230b99a6a89.15412233",
+        "name": "Valentine Saloon",
+        "owner_name": "Ich wei\u00df",
+        "owner_telegram": "23",
+        "deputy_name": "",
+        "deputy_telegram": "",
+        "foundation_date": "2025-05-01",
+        "license_date": "2025-05-01",
+        "license_renewal_date": "2025-05-12",
+        "license_duration": 1,
+        "license_expiry": "2025-06-26",
+        "remaining_days_added": 17,
+        "notifications": {
+            "pre_warning_sent": false,
+            "expiry_notice_sent": false
+        },
+        "licenses": [],
+        "attachments": [],
+        "created_by": "admin",
+        "created_at": "2025-05-12 17:32:41",
+        "updated_by": "admin",
+        "updated_at": "2025-05-12 17:32:52",
+        "status": {
+            "status": "green",
+            "days_remaining": 45,
+            "text": "G\u00fcltig",
+            "color_class": "bg-success",
+            "needs_action": false
+        }
+    }
+]

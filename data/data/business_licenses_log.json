@@ -1,0 +1,42 @@
+[
+    {
+        "id": "68222f6796ceb3.97484970",
+        "timestamp": "2025-05-12 17:27:03",
+        "user_id": "admin",
+        "username": "OConnor",
+        "business_id": "68222f67969a13.32307011",
+        "business_name": "Saloon Test",
+        "action": "erstellt",
+        "details": "Neues Unternehmen angelegt mit Gewerbeschein g\u00fcltig bis 09.06.2025"
+    },
+    {
+        "id": "6822307fd93780.36746738",
+        "timestamp": "2025-05-12 17:31:43",
+        "user_id": "admin",
+        "username": "OConnor",
+        "business_id": "6822307fd921d6.35482760",
+        "business_name": "Valentine B\u00fcchsenmacher",
+        "action": "erstellt",
+        "details": "Neues Unternehmen angelegt mit Gewerbeschein g\u00fcltig bis 09.06.2025"
+    },
+    {
+        "id": "682230b99ab117.01706313",
+        "timestamp": "2025-05-12 17:32:41",
+        "user_id": "admin",
+        "username": "OConnor",
+        "business_id": "682230b99a6a89.15412233",
+        "business_name": "Valentine Saloon",
+        "action": "erstellt",
+        "details": "Neues Unternehmen angelegt mit Gewerbeschein g\u00fcltig bis 29.05.2025"
+    },
+    {
+        "id": "682230c4a78096.24497829",
+        "timestamp": "2025-05-12 17:32:52",
+        "user_id": "admin",
+        "username": "OConnor",
+        "business_id": "682230b99a6a89.15412233",
+        "business_name": "Valentine Saloon",
+        "action": "verl\u00e4ngert",
+        "details": "Gewerbeschein verl\u00e4ngert am 12.05.2025. Ablaufdatum ge\u00e4ndert von 29.05.2025 zu 26.06.2025"
+    }
+]

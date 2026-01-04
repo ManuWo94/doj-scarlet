@@ -1,0 +1,38 @@
+{
+    "Leitungsebene": [
+        "Allgemein",
+        "Antr\u00e4ge",
+        "Direktiven",
+        "Haftbefehle",
+        "Jahresberichte",
+        "Leitungsbeschl\u00fcsse",
+        "Lizenzen und Genehmigungen",
+        "Richtlinien",
+        "Standesamt"
+    ],
+    "Richterschaft": [
+        "Beschl\u00fcsse",
+        "Gerichtsbeschl\u00fcsse",
+        "Haftbefehle",
+        "Protokolle",
+        "Urteile",
+        "Vorladungen"
+    ],
+    "Staatsanwaltschaft": [
+        "Anklageschriften",
+        "Beweisantr\u00e4ge",
+        "Pl\u00e4doyers",
+        "Standesamt",
+        "Vorladungen"
+    ],
+    "Assistenz": [
+        "Berichte",
+        "Formulare",
+        "Korrespondenz"
+    ],
+    "U.S. Marshal Service": [
+        "Durchsuchungsbefehle",
+        "Einsatzberichte",
+        "Verhaftungsbefehle"
+    ]
+}

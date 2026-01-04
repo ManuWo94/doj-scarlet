@@ -1,0 +1,26 @@
+[
+    {
+        "id": "6812d645958917.48359327",
+        "name": "Jura Module",
+        "description": "",
+        "created_by": "admin",
+        "date_created": "2025-05-01 02:02:45",
+        "date_updated": "2025-05-01 02:02:45"
+    },
+    {
+        "id": "681528a56c92a2.68060996",
+        "name": "Staatsanwaltschaft",
+        "description": "",
+        "created_by": "admin",
+        "date_created": "2025-05-02 20:18:45",
+        "date_updated": "2025-05-02 20:18:45"
+    },
+    {
+        "id": "6823a83c058eb6.23606851",
+        "name": "Pr\u00fcfung: Staatsanwaltschaft",
+        "description": "Pr\u00fcfung: Muss bestanden werden um zum Prosecutor bef\u00f6rdert zu werden und F\u00e4lle alleine bearbeiten zu k\u00f6nnen.",
+        "created_by": "admin",
+        "date_created": "2025-05-13 20:14:52",
+        "date_updated": "2025-05-13 20:14:52"
+    }
+]

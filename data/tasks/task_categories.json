@@ -1,0 +1,16 @@
+[
+    {
+        "id": "682210ca04cac7.66204354",
+        "name": "Fallverwaltung",
+        "color": "#53d5fd",
+        "created_by": "admin",
+        "created_at": "2025-05-12 15:16:26"
+    },
+    {
+        "id": "68239ff31e3ac8.00520705",
+        "name": "Disziplinarstrafe",
+        "color": "#db3333",
+        "created_by": "admin",
+        "created_at": "2025-05-13 19:39:31"
+    }
+]

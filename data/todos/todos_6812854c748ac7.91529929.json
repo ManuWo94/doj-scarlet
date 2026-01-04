@@ -1,0 +1,28 @@
+[
+    {
+        "id": "6822193c120568.87129708",
+        "title": "Mach mal 2",
+        "description": "",
+        "category_id": "68221931872798.12309144",
+        "category_name": "Try",
+        "category_color": "#3498db",
+        "due_date": "2025-05-14",
+        "completed": false,
+        "completed_at": null,
+        "created_at": "2025-05-12 15:52:28",
+        "updated_at": "2025-05-12 15:52:35"
+    },
+    {
+        "id": "68221920d4e933.04053824",
+        "title": "Mach mal",
+        "description": "",
+        "category_id": "",
+        "category_name": "",
+        "category_color": "#999999",
+        "due_date": null,
+        "completed": false,
+        "completed_at": null,
+        "created_at": "2025-05-12 15:52:00",
+        "updated_at": "2025-05-12 15:52:00"
+    }
+]

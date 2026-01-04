@@ -1,0 +1,81 @@
+[
+    {
+        "id": "68239a6c857c34.63655127",
+        "name": "testt",
+        "owner_name": "testt",
+        "owner_telegram": "testt",
+        "deputy_name": "testtt",
+        "deputy_telegram": "testtt",
+        "foundation_date": "2025-05-13",
+        "license_start_date": "2025-05-13",
+        "license_renewal_date": "2025-05-13",
+        "license_duration": 1,
+        "license_expiry": "2025-06-10",
+        "remaining_days_added": 0,
+        "notifications": {
+            "pre_warning_sent": false,
+            "expiry_notice_sent": false
+        },
+        "licenses": [
+            {
+                "id": "6823e9697983d8.40533426",
+                "name": "Kokalizenz",
+                "description": "Herstellung, Verarbeitung und Verkauf von Kokain.",
+                "issue_date": "2025-05-14",
+                "created_by": "admin",
+                "created_at": "2025-05-14 00:52:57",
+                "expiry_date": "2025-06-14",
+                "status": {
+                    "status": "green",
+                    "days_remaining": 31,
+                    "text": "G\u00fcltig",
+                    "color_class": "bg-success",
+                    "needs_action": false
+                }
+            }
+        ],
+        "attachments": [],
+        "created_by": "68178e9b8b7284.17116908",
+        "created_at": "2025-05-13 19:15:56",
+        "updated_by": "admin",
+        "updated_at": "2025-05-14 00:52:57",
+        "status": {
+            "status": "green",
+            "days_remaining": 28,
+            "text": "G\u00fcltig",
+            "color_class": "bg-success",
+            "needs_action": false
+        }
+    },
+    {
+        "id": "682293d19ce497.13764249",
+        "name": "test",
+        "owner_name": "test",
+        "owner_telegram": "test",
+        "deputy_name": "test",
+        "deputy_telegram": "test",
+        "foundation_date": "2025-05-13",
+        "license_start_date": "2025-05-13",
+        "license_renewal_date": "2025-05-13",
+        "license_duration": 1,
+        "license_expiry": "2025-06-10",
+        "remaining_days_added": 0,
+        "notifications": {
+            "pre_warning_sent": false,
+            "expiry_notice_sent": false
+        },
+        "licenses": [],
+        "attachments": [],
+        "created_by": "68141f488ea9a1.42837906",
+        "created_at": "2025-05-13 00:35:29",
+        "updated_by": "68141f488ea9a1.42837906",
+        "updated_at": "2025-05-13 00:35:29",
+        "status": {
+            "status": "green",
+            "days_remaining": 28,
+            "text": "G\u00fcltig",
+            "color_class": "bg-success",
+            "needs_action": false
+        }
+    }
+]

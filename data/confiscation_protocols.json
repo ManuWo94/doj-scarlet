@@ -1,0 +1,456 @@
+[
+    {
+        "id": "68138063015409.88656818",
+        "protocol_type": "weapon",
+        "owner_id": "",
+        "owner_tg_number": "123",
+        "owner_name": "Vito Calzone",
+        "sheriff_id": "5",
+        "sheriff_name": "Jonathan Graves",
+        "confiscation_date": "2025-04-28",
+        "retention_days": 1,
+        "planned_return_date": "2025-05-02",
+        "items": [
+            {
+                "name": "Navy Revolver",
+                "serial": "5298"
+            }
+        ],
+        "remarks": "",
+        "receiving_staff_id": "6812df887618a4.78112601",
+        "receiving_staff_name": "von-Mayn",
+        "receiving_date": "2025-05-01 14:08:35",
+        "status": "returned",
+        "return_date": "2025-05-02 19:32:05",
+        "returning_staff_id": "admin",
+        "returning_staff_name": "OConnor",
+        "change_log": [
+            {
+                "user_id": "6812df887618a4.78112601",
+                "username": "von-Mayn",
+                "action": "erstellt",
+                "details": "",
+                "timestamp": "2025-05-01 14:08:35"
+            },
+            {
+                "user_id": "admin",
+                "username": "OConnor",
+                "action": "zur\u00fcckgegeben",
+                "details": "Waffen zur\u00fcckgegeben",
+                "timestamp": "2025-05-02 19:32:05"
+            }
+        ]
+    },
+    {
+        "id": "681380e219cec1.00655566",
+        "protocol_type": "weapon",
+        "owner_id": "",
+        "owner_tg_number": "122",
+        "owner_name": "Luciano Calcone",
+        "sheriff_id": "48",
+        "sheriff_name": "Clayton Tyler",
+        "confiscation_date": "2025-04-28",
+        "retention_days": 1,
+        "planned_return_date": "2025-05-02",
+        "items": [
+            {
+                "name": "Pipe Charge Dynamite",
+                "serial": "2x"
+            },
+            {
+                "name": "Dietrich",
+                "serial": "5x"
+            },
+            {
+                "name": "Cattleman",
+                "serial": "9726"
+            },
+            {
+                "name": "Wurfmesser",
+                "serial": "3276"
+            },
+            {
+                "name": "Lasso",
+                "serial": "1x"
+            },
+            {
+                "name": "Messer",
+                "serial": "7245"
+            }
+        ],
+        "remarks": "",
+        "receiving_staff_id": "6812df887618a4.78112601",
+        "receiving_staff_name": "von-Mayn",
+        "receiving_date": "2025-05-01 14:10:42",
+        "status": "returned",
+        "return_date": "2025-05-02 19:30:52",
+        "returning_staff_id": "admin",
+        "returning_staff_name": "OConnor",
+        "change_log": [
+            {
+                "user_id": "6812df887618a4.78112601",
+                "username": "von-Mayn",
+                "action": "erstellt",
+                "details": "",
+                "timestamp": "2025-05-01 14:10:42"
+            },
+            {
+                "user_id": "admin",
+                "username": "OConnor",
+                "action": "zur\u00fcckgegeben",
+                "details": "Waffen zur\u00fcckgegeben",
+                "timestamp": "2025-05-02 19:30:52"
+            }
+        ]
+    },
+    {
+        "id": "6813d656cd9ad5.28414318",
+        "protocol_type": "weapon",
+        "owner_id": "",
+        "owner_tg_number": "122",
+        "owner_name": "Luciano Calcone",
+        "sheriff_id": "18",
+        "sheriff_name": "Wayne Jackson",
+        "confiscation_date": "2025-05-01",
+        "retention_days": 1,
+        "planned_return_date": "2025-05-02",
+        "items": [
+            {
+                "name": "Cattleman Revolver",
+                "serial": "1765"
+            },
+            {
+                "name": "Cattleman Revolver",
+                "serial": "6939"
+            },
+            {
+                "name": "Lasso",
+                "serial": "1x"
+            }
+        ],
+        "remarks": "Cattleman Revolver SN 1765 und SN 6939",
+        "receiving_staff_id": "6812df887618a4.78112601",
+        "receiving_staff_name": "von-Mayn",
+        "receiving_date": "2025-05-01 20:15:18",
+        "status": "active",
+        "return_date": null,
+        "returning_staff_id": null,
+        "returning_staff_name": null,
+        "change_log": [
+            {
+                "user_id": "6812df887618a4.78112601",
+                "username": "von-Mayn",
+                "action": "erstellt",
+                "details": "",
+                "timestamp": "2025-05-01 20:15:18"
+            }
+        ]
+    },
+    {
+        "id": "6813d961e0d289.68040552",
+        "protocol_type": "weapon",
+        "owner_id": "",
+        "owner_tg_number": "123",
+        "owner_name": "Vito Calzone",
+        "sheriff_id": "17",
+        "sheriff_name": "Otis Walker",
+        "confiscation_date": "2025-05-01",
+        "retention_days": 1,
+        "planned_return_date": "2025-05-02",
+        "items": [
+            {
+                "name": "Messer",
+                "serial": "1x"
+            },
+            {
+                "name": "Cleaver (Axt)",
+                "serial": "1x"
+            },
+            {
+                "name": "Gro\u00dfes Lasso",
+                "serial": "1x"
+            }
+        ],
+        "remarks": "Tatwaffen: 2 Revolver",
+        "receiving_staff_id": "admin",
+        "receiving_staff_name": "OConnor",
+        "receiving_date": "2025-05-01 20:28:17",
+        "status": "active",
+        "return_date": null,
+        "returning_staff_id": null,
+        "returning_staff_name": null,
+        "change_log": [
+            {
+                "user_id": "admin",
+                "username": "OConnor",
+                "action": "erstellt",
+                "details": "",
+                "timestamp": "2025-05-01 20:28:17"
+            }
+        ]
+    },
+    {
+        "id": "681675e2eed603.04177780",
+        "protocol_type": "weapon",
+        "owner_id": "",
+        "owner_tg_number": "145",
+        "owner_name": "Gino Venturi",
+        "sheriff_id": "18",
+        "sheriff_name": "Wayne Jackson",
+        "confiscation_date": "2025-05-03",
+        "retention_days": 1,
+        "planned_return_date": "2025-05-04",
+        "items": [
+            {
+                "name": "Cattleman Revolver",
+                "serial": "6604"
+            },
+            {
+                "name": "Messer",
+                "serial": "1x"
+            }
+        ],
+        "remarks": "",
+        "receiving_staff_id": "6812df887618a4.78112601",
+        "receiving_staff_name": "von-Mayn",
+        "receiving_date": "2025-05-03 20:00:34",
+        "status": "returned",
+        "return_date": "2025-05-05 20:21:58",
+        "returning_staff_id": "68178e9b8b7284.17116908",
+        "returning_staff_name": "Weber",
+        "change_log": [
+            {
+                "user_id": "6812df887618a4.78112601",
+                "username": "von-Mayn",
+                "action": "erstellt",
+                "details": "",
+                "timestamp": "2025-05-03 20:00:34"
+            },
+            {
+                "user_id": "68178e9b8b7284.17116908",
+                "username": "Weber",
+                "action": "zur\u00fcckgegeben",
+                "details": "Waffen zur\u00fcckgegeben",
+                "timestamp": "2025-05-05 20:21:58"
+            }
+        ]
+    },
+    {
+        "id": "68335f7718c002.39438714",
+        "protocol_type": "weapon",
+        "owner_id": "",
+        "owner_tg_number": "?",
+        "owner_name": "Kevin Beef-Jerley",
+        "sheriff_id": "17",
+        "sheriff_name": "Otis Walker",
+        "confiscation_date": "2025-05-24",
+        "retention_days": 1,
+        "planned_return_date": "2025-05-26",
+        "items": [
+            {
+                "name": "1x Messer",
+                "serial": ""
+            }
+        ],
+        "remarks": "",
+        "receiving_staff_id": "68178e9b8b7284.17116908",
+        "receiving_staff_name": "Weber",
+        "receiving_date": "2025-05-25 18:20:39",
+        "status": "active",
+        "return_date": null,
+        "returning_staff_id": null,
+        "returning_staff_name": null,
+        "change_log": [
+            {
+                "user_id": "68178e9b8b7284.17116908",
+                "username": "Weber",
+                "action": "erstellt",
+                "details": "",
+                "timestamp": "2025-05-25 18:20:39"
+            }
+        ]
+    },
+    {
+        "id": "68335f9e8b1833.09181094",
+        "protocol_type": "weapon",
+        "owner_id": "",
+        "owner_tg_number": "169",
+        "owner_name": "James Cotton",
+        "sheriff_id": "17",
+        "sheriff_name": "Otis Walker",
+        "confiscation_date": "2025-05-24",
+        "retention_days": 1,
+        "planned_return_date": "2025-05-26",
+        "items": [
+            {
+                "name": "Navy",
+                "serial": "8457"
+            }
+        ],
+        "remarks": "",
+        "receiving_staff_id": "68178e9b8b7284.17116908",
+        "receiving_staff_name": "Weber",
+        "receiving_date": "2025-05-25 18:21:18",
+        "status": "active",
+        "return_date": null,
+        "returning_staff_id": null,
+        "returning_staff_name": null,
+        "change_log": [
+            {
+                "user_id": "68178e9b8b7284.17116908",
+                "username": "Weber",
+                "action": "erstellt",
+                "details": "",
+                "timestamp": "2025-05-25 18:21:18"
+            }
+        ]
+    },
+    {
+        "id": "683366d60d8503.41770006",
+        "protocol_type": "weapon",
+        "owner_id": "",
+        "owner_tg_number": "166",
+        "owner_name": "Dustin-Celina Beef-Jerkey",
+        "sheriff_id": "18",
+        "sheriff_name": "Wayne Jackson",
+        "confiscation_date": "2025-05-24",
+        "retention_days": 1,
+        "planned_return_date": "2025-05-26",
+        "items": [
+            {
+                "name": "Messer",
+                "serial": ""
+            }
+        ],
+        "remarks": "",
+        "receiving_staff_id": "68178e9b8b7284.17116908",
+        "receiving_staff_name": "Weber",
+        "receiving_date": "2025-05-25 18:52:06",
+        "status": "active",
+        "return_date": null,
+        "returning_staff_id": null,
+        "returning_staff_name": null,
+        "change_log": [
+            {
+                "user_id": "68178e9b8b7284.17116908",
+                "username": "Weber",
+                "action": "erstellt",
+                "details": "",
+                "timestamp": "2025-05-25 18:52:06"
+            }
+        ]
+    },
+    {
+        "id": "68336701d63693.26318049",
+        "protocol_type": "weapon",
+        "owner_id": "",
+        "owner_tg_number": "13",
+        "owner_name": "Justin-Celina Beef-Jerkey",
+        "sheriff_id": "18",
+        "sheriff_name": "Wayne Jackson",
+        "confiscation_date": "2025-05-24",
+        "retention_days": 1,
+        "planned_return_date": "2025-05-26",
+        "items": [
+            {
+                "name": "Messer",
+                "serial": ""
+            }
+        ],
+        "remarks": "",
+        "receiving_staff_id": "68178e9b8b7284.17116908",
+        "receiving_staff_name": "Weber",
+        "receiving_date": "2025-05-25 18:52:49",
+        "status": "active",
+        "return_date": null,
+        "returning_staff_id": null,
+        "returning_staff_name": null,
+        "change_log": [
+            {
+                "user_id": "68178e9b8b7284.17116908",
+                "username": "Weber",
+                "action": "erstellt",
+                "details": "",
+                "timestamp": "2025-05-25 18:52:49"
+            }
+        ]
+    },
+    {
+        "id": "683a29b454b433.29131593",
+        "protocol_type": "weapon",
+        "owner_id": "",
+        "owner_tg_number": "82",
+        "owner_name": "Alexander Van Mayn",
+        "sheriff_id": "17",
+        "sheriff_name": "Otis Walker",
+        "confiscation_date": "2025-05-30",
+        "retention_days": 21,
+        "planned_return_date": "2025-06-20",
+        "items": [
+            {
+                "name": "Volcanic",
+                "serial": "2640"
+            },
+            {
+                "name": "Bolt Action",
+                "serial": "7726"
+            },
+            {
+                "name": "Pump Shotgun",
+                "serial": "7700"
+            }
+        ],
+        "remarks": "Aufbewahrung bis zur Gerichtsverhandlung",
+        "receiving_staff_id": "6818c91b77ff06.60224903",
+        "receiving_staff_name": "Bubba",
+        "receiving_date": "2025-05-30 21:57:08",
+        "status": "active",
+        "return_date": null,
+        "returning_staff_id": null,
+        "returning_staff_name": null,
+        "change_log": [
+            {
+                "user_id": "6818c91b77ff06.60224903",
+                "username": "Bubba",
+                "action": "erstellt",
+                "details": "",
+                "timestamp": "2025-05-30 21:57:08"
+            }
+        ]
+    },
+    {
+        "id": "683a2a0c6a6c45.33681364",
+        "protocol_type": "evidence",
+        "owner_id": "",
+        "owner_tg_number": "82",
+        "owner_name": "Alexander Van Mayn",
+        "sheriff_id": "17",
+        "sheriff_name": "Otis Walker",
+        "confiscation_date": "2025-05-30",
+        "retention_days": 0,
+        "planned_return_date": "2025-05-30",
+        "items": [
+            {
+                "name": "Kleidungspaket mit Etikett Native",
+                "serial": "Native"
+            }
+        ],
+        "remarks": "Beweismittel wird bis zum Gerichtstermin aufgehoben",
+        "receiving_staff_id": "6818c91b77ff06.60224903",
+        "receiving_staff_name": "Bubba",
+        "receiving_date": "2025-05-30 21:58:36",
+        "status": "active",
+        "return_date": null,
+        "returning_staff_id": null,
+        "returning_staff_name": null,
+        "change_log": [
+            {
+                "user_id": "6818c91b77ff06.60224903",
+                "username": "Bubba",
+                "action": "erstellt",
+                "details": "",
+                "timestamp": "2025-05-30 21:58:36"
+            }
+        ]
+    }
+]

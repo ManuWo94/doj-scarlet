@@ -1,0 +1,872 @@
+[
+    {
+        "id": "68127f9d3ee645.83561483",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "on_duty",
+        "timestamp": "2025-04-30 21:53:01"
+    },
+    {
+        "id": "6812809de3c629.19125643",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "off_duty",
+        "timestamp": "2025-04-30 21:57:17"
+    },
+    {
+        "id": "681280a038b4c8.29179139",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "on_duty",
+        "timestamp": "2025-04-30 21:57:20"
+    },
+    {
+        "id": "6812c1fc17f5f2.28417774",
+        "user_id": "6812857e4bde78.11080232",
+        "username": "von-Mayn",
+        "status": "on_duty",
+        "timestamp": "2025-05-01 02:36:12"
+    },
+    {
+        "id": "6812c1fe5b8d79.73736416",
+        "user_id": "6812857e4bde78.11080232",
+        "username": "von-Mayn",
+        "status": "off_duty",
+        "timestamp": "2025-05-01 02:36:14"
+    },
+    {
+        "id": "6812df2e2d99d4.53689735",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "off_duty",
+        "timestamp": "2025-05-01 04:40:46"
+    },
+    {
+        "id": "68136a8bd8af45.44336223",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "on_duty",
+        "timestamp": "2025-05-01 14:35:23"
+    },
+    {
+        "id": "681370307ae611.78396868",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "on_duty",
+        "timestamp": "2025-05-01 14:59:28"
+    },
+    {
+        "id": "6813993728b238.18522416",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "off_duty",
+        "timestamp": "2025-05-01 17:54:31"
+    },
+    {
+        "id": "6813c85d4a6c84.44667067",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "on_duty",
+        "timestamp": "2025-05-01 21:15:41",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "6813dc59366c15.49724051",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "off_duty",
+        "timestamp": "2025-05-01 22:40:57"
+    },
+    {
+        "id": "68141bff7d6683.71579517",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "off_duty",
+        "timestamp": "2025-05-02 03:12:31"
+    },
+    {
+        "id": "68151a32af3526.10607652",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "on_duty",
+        "timestamp": "2025-05-02 21:17:06",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "68151bbc36ce96.23134350",
+        "user_id": "681519eda39c90.99105169",
+        "username": "Hofstetter",
+        "status": "on_duty",
+        "timestamp": "2025-05-02 21:23:40",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "68151c54adb016.72463660",
+        "user_id": "68141f488ea9a1.42837906",
+        "username": "Rhodes",
+        "status": "on_duty",
+        "timestamp": "2025-05-02 21:26:12"
+    },
+    {
+        "id": "68151c5c423e47.57207164",
+        "user_id": "68141f488ea9a1.42837906",
+        "username": "Rhodes",
+        "status": "off_duty",
+        "timestamp": "2025-05-02 21:26:20"
+    },
+    {
+        "id": "681531b2cf7393.63823381",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "off_duty",
+        "timestamp": "2025-05-02 22:57:22"
+    },
+    {
+        "id": "681531b66584a3.38251660",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "on_duty",
+        "timestamp": "2025-05-02 22:57:26"
+    },
+    {
+        "id": "681531b8aac956.75832829",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "off_duty",
+        "timestamp": "2025-05-02 22:57:28"
+    },
+    {
+        "id": "6816621d3ba229.89446841",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "on_duty",
+        "timestamp": "2025-05-03 20:36:13"
+    },
+    {
+        "id": "68168e20417619.66225997",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "on_duty",
+        "timestamp": "2025-05-03 23:44:00"
+    },
+    {
+        "id": "6816b71847c0e0.67168840",
+        "user_id": "681519eda39c90.99105169",
+        "username": "Hofstetter",
+        "status": "off_duty",
+        "timestamp": "2025-05-04 02:38:48"
+    },
+    {
+        "id": "6816c9124e6299.98755528",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "off_duty",
+        "timestamp": "2025-05-04 03:55:30"
+    },
+    {
+        "id": "6818c98c89ab44.91209190",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "on_duty",
+        "timestamp": "2025-05-05 16:22:04"
+    },
+    {
+        "id": "6818cbea596e16.98086139",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "off_duty",
+        "timestamp": "2025-05-05 16:32:10"
+    },
+    {
+        "id": "68190f083ed1b9.96277548",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "off_duty",
+        "timestamp": "2025-05-05 21:18:32"
+    },
+    {
+        "id": "68191378cdd312.89665323",
+        "user_id": "68178e9b8b7284.17116908",
+        "username": "Weber",
+        "status": "on_duty",
+        "timestamp": "2025-05-05 21:37:28"
+    },
+    {
+        "id": "6819151a1b5210.58460363",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "on_duty",
+        "timestamp": "2025-05-05 21:44:26",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "68191979e2e786.65275081",
+        "user_id": "681519eda39c90.99105169",
+        "username": "Hofstetter",
+        "status": "on_duty",
+        "timestamp": "2025-05-05 22:03:05",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "68191e5e03ffa1.68929286",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "on_duty",
+        "timestamp": "2025-05-05 22:23:58"
+    },
+    {
+        "id": "68192de26b8fc8.23183994",
+        "user_id": "681519eda39c90.99105169",
+        "username": "Hofstetter",
+        "status": "off_duty",
+        "timestamp": "2025-05-05 23:30:10"
+    },
+    {
+        "id": "68192e8f887a28.77817973",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "off_duty",
+        "timestamp": "2025-05-05 23:33:03"
+    },
+    {
+        "id": "681937c49bd215.19001488",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "off_duty",
+        "timestamp": "2025-05-06 00:12:20"
+    },
+    {
+        "id": "6819de78e5f1f8.85904707",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "on_duty",
+        "timestamp": "2025-05-06 12:03:36"
+    },
+    {
+        "id": "681a294d9d94a1.56449823",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "off_duty",
+        "timestamp": "2025-05-06 17:22:53"
+    },
+    {
+        "id": "681a6585728d33.96708910",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "on_duty",
+        "timestamp": "2025-05-06 21:39:49"
+    },
+    {
+        "id": "681ba25dbe1406.92059969",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "on_duty",
+        "timestamp": "2025-05-07 20:11:41"
+    },
+    {
+        "id": "681bd3291c98e9.67748160",
+        "user_id": "681519eda39c90.99105169",
+        "username": "Hofstetter",
+        "status": "on_duty",
+        "timestamp": "2025-05-07 23:39:53"
+    },
+    {
+        "id": "681bdd89d64d13.55675153",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "off_duty",
+        "timestamp": "2025-05-08 00:24:09"
+    },
+    {
+        "id": "681d1bcaef1248.87839097",
+        "user_id": "681519eda39c90.99105169",
+        "username": "Hofstetter",
+        "status": "off_duty",
+        "timestamp": "2025-05-08 23:02:02"
+    },
+    {
+        "id": "681d27eadf1c20.74652922",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "off_duty",
+        "timestamp": "2025-05-08 23:53:46"
+    },
+    {
+        "id": "681d281a8a9796.55343966",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "on_duty",
+        "timestamp": "2025-05-08 23:54:34"
+    },
+    {
+        "id": "681d281e9eaf47.23115476",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "off_duty",
+        "timestamp": "2025-05-08 23:54:38"
+    },
+    {
+        "id": "681f931aac5a28.62704673",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "on_duty",
+        "timestamp": "2025-05-10 19:55:38",
+        "location": "County-Rat-Sitzung"
+    },
+    {
+        "id": "681fce0619ebb6.99287718",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "on_duty",
+        "timestamp": "2025-05-11 00:07:02",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "681fe893896a10.12012208",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "off_duty",
+        "timestamp": "2025-05-11 02:00:19"
+    },
+    {
+        "id": "68234c491da448.89272307",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "off_duty",
+        "timestamp": "2025-05-13 15:42:33"
+    },
+    {
+        "id": "68234c49d310e6.16870517",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "on_duty",
+        "timestamp": "2025-05-13 15:42:33"
+    },
+    {
+        "id": "68234c5187b433.66537934",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "on_duty",
+        "timestamp": "2025-05-13 15:42:41"
+    },
+    {
+        "id": "68235907157eb4.48808640",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "off_duty",
+        "timestamp": "2025-05-13 16:36:55",
+        "forced_by": {
+            "admin_id": "admin",
+            "admin_name": "OConnor",
+            "reason": "Vergessen auszutragen?"
+        }
+    },
+    {
+        "id": "6823590e6f9bf4.26661852",
+        "user_id": "68178e9b8b7284.17116908",
+        "username": "Weber",
+        "status": "off_duty",
+        "timestamp": "2025-05-13 16:37:02",
+        "forced_by": {
+            "admin_id": "admin",
+            "admin_name": "OConnor",
+            "reason": "Vergessen auszutragen?"
+        }
+    },
+    {
+        "id": "682364ce35cd43.91673136",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "on_duty",
+        "timestamp": "2025-05-13 17:27:10",
+        "location": "Emerald Ranch"
+    },
+    {
+        "id": "682398a64483b5.51663828",
+        "user_id": "68178e9b8b7284.17116908",
+        "username": "Weber",
+        "status": "on_duty",
+        "timestamp": "2025-05-13 21:08:22",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "68239cd5942a09.65666417",
+        "user_id": "681519eda39c90.99105169",
+        "username": "Hofstetter",
+        "status": "on_duty",
+        "timestamp": "2025-05-13 21:26:13",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "68239fd4a3dc22.56374501",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "off_duty",
+        "timestamp": "2025-05-13 21:39:00",
+        "forced_by": {
+            "admin_id": "68178e9b8b7284.17116908",
+            "admin_name": "Weber",
+            "reason": "nicht erreichbar"
+        }
+    },
+    {
+        "id": "6823aa72e02152.83723058",
+        "user_id": "68178e9b8b7284.17116908",
+        "username": "Weber",
+        "status": "off_duty",
+        "timestamp": "2025-05-13 22:24:18"
+    },
+    {
+        "id": "6823b683750236.38362133",
+        "user_id": "681519eda39c90.99105169",
+        "username": "Hofstetter",
+        "status": "off_duty",
+        "timestamp": "2025-05-13 23:15:47"
+    },
+    {
+        "id": "682496def2dc03.93676268",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "on_duty",
+        "timestamp": "2025-05-14 15:13:02",
+        "location": "Annesburg"
+    },
+    {
+        "id": "6824bbeb4a1495.48736414",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "off_duty",
+        "timestamp": "2025-05-14 17:51:07"
+    },
+    {
+        "id": "6824d4974f2211.33443129",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "on_duty",
+        "timestamp": "2025-05-14 19:36:23"
+    },
+    {
+        "id": "6824e5ed1385a7.08697888",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "on_duty",
+        "timestamp": "2025-05-14 20:50:21"
+    },
+    {
+        "id": "682500eaafc8b6.16513551",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "off_duty",
+        "timestamp": "2025-05-14 22:45:30"
+    },
+    {
+        "id": "682509574e3258.85461436",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "off_duty",
+        "timestamp": "2025-05-14 23:21:27",
+        "forced_by": {
+            "admin_id": "admin",
+            "admin_name": "OConnor",
+            "reason": ""
+        }
+    },
+    {
+        "id": "682747b46b1065.94356345",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "on_duty",
+        "timestamp": "2025-05-16 16:12:04"
+    },
+    {
+        "id": "682754269f8957.60152689",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "off_duty",
+        "timestamp": "2025-05-16 17:05:10"
+    },
+    {
+        "id": "6829eaee2b5272.85122134",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "on_duty",
+        "timestamp": "2025-05-18 16:13:02",
+        "location": "Annesburg"
+    },
+    {
+        "id": "682a076b0f94c0.34192843",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "off_duty",
+        "timestamp": "2025-05-18 18:14:35"
+    },
+    {
+        "id": "682a21610a7ff2.63924957",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "on_duty",
+        "timestamp": "2025-05-18 20:05:21",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "682b412dc04b41.79342717",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "off_duty",
+        "timestamp": "2025-05-19 16:33:17"
+    },
+    {
+        "id": "682b4139406ba5.03677661",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "on_duty",
+        "timestamp": "2025-05-19 16:33:29",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "682b670e1431f3.74231169",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "off_duty",
+        "timestamp": "2025-05-19 19:14:54"
+    },
+    {
+        "id": "682b6c51960f65.44311473",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "on_duty",
+        "timestamp": "2025-05-19 19:37:21"
+    },
+    {
+        "id": "682b850f8205e3.06652195",
+        "user_id": "681519eda39c90.99105169",
+        "username": "Hofstetter",
+        "status": "on_duty",
+        "timestamp": "2025-05-19 21:22:55",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "682b8feebf5cd8.38223523",
+        "user_id": "68178e9b8b7284.17116908",
+        "username": "Weber",
+        "status": "on_duty",
+        "timestamp": "2025-05-19 22:09:18",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "682b935457da77.68580685",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "on_duty",
+        "timestamp": "2025-05-19 22:23:48",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "682b9829243243.87428728",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "off_duty",
+        "timestamp": "2025-05-19 22:44:25"
+    },
+    {
+        "id": "682b9830a55f14.05358516",
+        "user_id": "681519eda39c90.99105169",
+        "username": "Hofstetter",
+        "status": "off_duty",
+        "timestamp": "2025-05-19 22:44:32"
+    },
+    {
+        "id": "682cc5486a6db4.60148184",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "on_duty",
+        "timestamp": "2025-05-20 20:09:12"
+    },
+    {
+        "id": "682cf7c1028011.10446433",
+        "user_id": "68178e9b8b7284.17116908",
+        "username": "Weber",
+        "status": "off_duty",
+        "timestamp": "2025-05-20 23:44:33",
+        "forced_by": {
+            "admin_id": "admin",
+            "admin_name": "OConnor",
+            "reason": ""
+        }
+    },
+    {
+        "id": "682cf7cbe5f954.34515569",
+        "user_id": "6812df887618a4.78112601",
+        "username": "von-Mayn",
+        "status": "off_duty",
+        "timestamp": "2025-05-20 23:44:43",
+        "forced_by": {
+            "admin_id": "admin",
+            "admin_name": "OConnor",
+            "reason": ""
+        }
+    },
+    {
+        "id": "682cf7ce6e3f94.75766721",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "off_duty",
+        "timestamp": "2025-05-20 23:44:46",
+        "forced_by": {
+            "admin_id": "admin",
+            "admin_name": "OConnor",
+            "reason": ""
+        }
+    },
+    {
+        "id": "682e1b1b48f496.79745736",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "on_duty",
+        "timestamp": "2025-05-21 20:27:39"
+    },
+    {
+        "id": "682e5d9fe0c560.07202614",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "off_duty",
+        "timestamp": "2025-05-22 01:11:27",
+        "forced_by": {
+            "admin_id": "admin",
+            "admin_name": "OConnor",
+            "reason": ""
+        }
+    },
+    {
+        "id": "682f75ac47a9f9.55778191",
+        "user_id": "681519eda39c90.99105169",
+        "username": "Hofstetter",
+        "status": "on_duty",
+        "timestamp": "2025-05-22 21:06:20",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "682f7a4f0bb4d0.79460354",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "on_duty",
+        "timestamp": "2025-05-22 21:26:07"
+    },
+    {
+        "id": "682f8e1e803bd4.85426367",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "off_duty",
+        "timestamp": "2025-05-22 22:50:38"
+    },
+    {
+        "id": "682f8e1f0e8359.50531606",
+        "user_id": "681519eda39c90.99105169",
+        "username": "Hofstetter",
+        "status": "off_duty",
+        "timestamp": "2025-05-22 22:50:39"
+    },
+    {
+        "id": "6830d51503b083.37016010",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "on_duty",
+        "timestamp": "2025-05-23 22:05:41"
+    },
+    {
+        "id": "6830eae270d2e0.19652948",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "off_duty",
+        "timestamp": "2025-05-23 23:38:42"
+    },
+    {
+        "id": "6832055a1501a7.90131616",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "on_duty",
+        "timestamp": "2025-05-24 19:43:54",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "68320bf7172840.27010025",
+        "user_id": "681519eda39c90.99105169",
+        "username": "Hofstetter",
+        "status": "on_duty",
+        "timestamp": "2025-05-24 20:12:07",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "683232aa0ef7e8.97450641",
+        "user_id": "68178e9b8b7284.17116908",
+        "username": "Weber",
+        "status": "on_duty",
+        "timestamp": "2025-05-24 22:57:14",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "68324bb752be70.77786336",
+        "user_id": "68178e9b8b7284.17116908",
+        "username": "Weber",
+        "status": "off_duty",
+        "timestamp": "2025-05-25 00:44:07"
+    },
+    {
+        "id": "68335482cf3330.26985022",
+        "user_id": "68178e9b8b7284.17116908",
+        "username": "Weber",
+        "status": "on_duty",
+        "timestamp": "2025-05-25 19:33:54",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "68361c15e36e13.97998539",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "off_duty",
+        "timestamp": "2025-05-27 22:09:57"
+    },
+    {
+        "id": "6838c6a9cddbf0.36772306",
+        "user_id": "68178e9b8b7284.17116908",
+        "username": "Weber",
+        "status": "off_duty",
+        "timestamp": "2025-05-29 22:42:17",
+        "forced_by": {
+            "admin_id": "admin",
+            "admin_name": "OConnor",
+            "reason": ""
+        }
+    },
+    {
+        "id": "6838c6acb61f84.74411528",
+        "user_id": "681519eda39c90.99105169",
+        "username": "Hofstetter",
+        "status": "off_duty",
+        "timestamp": "2025-05-29 22:42:20",
+        "forced_by": {
+            "admin_id": "admin",
+            "admin_name": "OConnor",
+            "reason": ""
+        }
+    },
+    {
+        "id": "6838c6ae08fb82.63689512",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "on_duty",
+        "timestamp": "2025-05-29 22:42:22"
+    },
+    {
+        "id": "6838cfe709d580.08153061",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "on_duty",
+        "timestamp": "2025-05-29 23:21:43"
+    },
+    {
+        "id": "6838e690ae6cc1.66361620",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "off_duty",
+        "timestamp": "2025-05-30 00:58:24"
+    },
+    {
+        "id": "683a2c9e20bb37.25431264",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "on_duty",
+        "timestamp": "2025-05-31 00:09:34"
+    },
+    {
+        "id": "683a2f0bee81d1.63834343",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "off_duty",
+        "timestamp": "2025-05-31 00:19:55"
+    },
+    {
+        "id": "683a414e50f1c0.71040579",
+        "user_id": "6818c91b77ff06.60224903",
+        "username": "Bubba",
+        "status": "off_duty",
+        "timestamp": "2025-05-31 01:37:50"
+    },
+    {
+        "id": "683b51a06440a4.64956363",
+        "user_id": "681519eda39c90.99105169",
+        "username": "Hofstetter",
+        "status": "on_duty",
+        "timestamp": "2025-05-31 20:59:44",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "683b55fc318cd6.05918839",
+        "user_id": "681519eda39c90.99105169",
+        "username": "Hofstetter",
+        "status": "off_duty",
+        "timestamp": "2025-05-31 21:18:20"
+    },
+    {
+        "id": "683ca975450208.65930537",
+        "user_id": "68178e9b8b7284.17116908",
+        "username": "Weber",
+        "status": "on_duty",
+        "timestamp": "2025-06-01 21:26:45",
+        "location": "Saint Denis"
+    },
+    {
+        "id": "683cc0dc820508.16246520",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "on_duty",
+        "timestamp": "2025-06-01 23:06:36"
+    },
+    {
+        "id": "683cc648cac646.83406215",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "off_duty",
+        "timestamp": "2025-06-01 23:29:44"
+    },
+    {
+        "id": "683d81a5470768.42877037",
+        "user_id": "68178e9b8b7284.17116908",
+        "username": "Weber",
+        "status": "off_duty",
+        "timestamp": "2025-06-02 12:49:09"
+    },
+    {
+        "id": "683e06720aeb85.33935350",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "on_duty",
+        "timestamp": "2025-06-02 22:15:46"
+    },
+    {
+        "id": "683e0e78c38f20.72351192",
+        "user_id": "admin",
+        "username": "OConnor",
+        "status": "off_duty",
+        "timestamp": "2025-06-02 22:50:00"
+    },
+    {
+        "id": "6859cbaab7f9f0.94871820",
+        "user_id": "68141f488ea9a1.42837906",
+        "username": "Rhodes",
+        "status": "on_duty",
+        "timestamp": "2025-06-23 23:48:26"
+    },
+    {
+        "id": "685b316b0b7312.00527829",
+        "user_id": "68141f488ea9a1.42837906",
+        "username": "Rhodes",
+        "status": "off_duty",
+        "timestamp": "2025-06-25 01:14:51",
+        "forced_by": {
+            "admin_id": "admin",
+            "admin_name": "OConnor",
+            "reason": ""
+        }
+    }
+]

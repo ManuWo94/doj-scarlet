@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Waffenlizenzen",
+        "description": "Ausgestellte Waffenlizenzen",
+        "created_by": "admin",
+        "created_by_name": "OConnor",
+        "files": [],
+        "subfolders": [
+            {
+                "name": "James Rhodes",
+                "description": "",
+                "created_by": "admin",
+                "created_by_name": "OConnor",
+                "files": [
+                    {
+                        "id": "6813b9e8b61b44.78785078",
+                        "title": "JR-041899-001",
+                        "description": "Laufende Nummer: 001",
+                        "created_by": "admin",
+                        "created_by_name": "OConnor",
+                        "date_created": "2025-05-01 18:14:00",
+                        "file_type": "png",
+                        "file_path": "6813b9e8b61b44.78785078.png",
+                        "file_size": 1587008
+                    }
+                ],
+                "subfolders": [],
+                "id": "6813b9cad78365.37477702"
+            }
+        ],
+        "id": "6813b9ba881960.06730339",
+        "date_created": "2025-05-01 18:13:14",
+        "date_updated": "2025-05-01 18:13:30"
+    }
+]

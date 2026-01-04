@@ -1,0 +1,48 @@
+[
+    {
+        "id": "admin",
+        "username": "OConnor",
+        "password": "$2y$10$QBa3.qWROhIRPZsdIqFF7.9gi2lV8pq\/3buJf8GkFn2LcXOXwBFYG",
+        "role": "Chief Justice",
+        "roles": [
+            "Chief Justice"
+        ],
+        "email": "",
+        "first_name": "Myles",
+        "last_name": "OConnor",
+        "is_active": true,
+        "date_created": "2025-04-30 18:58:30",
+        "last_login": null,
+        "preferences": {
+            "theme": "light",
+            "language": "de"
+        },
+        "role_id": "chief_justice",
+        "is_admin": false,
+        "status": "active",
+        "badge_number": "",
+        "title": "",
+        "notes": "",
+        "date_updated": "2025-05-02 01:56:06"
+    },
+    {
+        "id": "68141f488ea9a1.42837906",
+        "username": "Rhodes",
+        "date_created": "2025-05-02 01:26:32",
+        "role": "Chief Justice",
+        "roles": [
+            "Chief Justice"
+        ],
+        "role_id": "chief_justice",
+        "is_admin": false,
+        "status": "active",
+        "first_name": "James",
+        "last_name": "Rhodes",
+        "email": "",
+        "badge_number": "",
+        "title": "",
+        "notes": "",
+        "password": "$2y$12$myvW6TpJNrBONzwFWb83fuhr5JBnWQKAXQ1nqPjgaPPE0jZD72aUy",
+        "date_updated": "2025-12-24 13:37:59"
+    }
+]

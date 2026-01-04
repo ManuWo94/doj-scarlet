@@ -1,0 +1,132 @@
+[
+    {
+        "id": "694d542d8c05e2.27808766",
+        "business_id": "68239a6c857c34.63655127",
+        "business_name": "testt",
+        "action": "zertifikat_generiert",
+        "details": "Gewerbeschein generiert von James Rhodes",
+        "user_id": "68141f488ea9a1.42837906",
+        "username": "Rhodes",
+        "timestamp": "2025-12-25 15:11:41"
+    },
+    {
+        "id": "685b31dcb80214.58188160",
+        "business_id": "68239a6c857c34.63655127",
+        "business_name": "testt",
+        "action": "zertifikat_generiert",
+        "details": "Gewerbeschein generiert von Myles OConnor",
+        "user_id": "admin",
+        "username": "OConnor",
+        "timestamp": "2025-06-24 23:16:44"
+    },
+    {
+        "id": "68264180af7773.80183121",
+        "business_id": "68239a6c857c34.63655127",
+        "business_name": "testt",
+        "action": "zertifikat_generiert",
+        "details": "Gewerbeschein generiert von Myles OConnor",
+        "user_id": "admin",
+        "username": "OConnor",
+        "timestamp": "2025-05-15 19:33:20"
+    },
+    {
+        "id": "6823e96b8e6291.47095839",
+        "business_id": "68239a6c857c34.63655127",
+        "business_name": "testt",
+        "action": "zertifikat_generiert",
+        "details": "Gewerbeschein generiert von Myles OConnor",
+        "user_id": "admin",
+        "username": "OConnor",
+        "timestamp": "2025-05-14 00:52:59"
+    },
+    {
+        "id": "6823e969798e27.34258118",
+        "business_id": "68239a6c857c34.63655127",
+        "business_name": "testt",
+        "action": "lizenz_hinzugef\u00fcgt",
+        "details": "Neue Lizenz 'Kokalizenz' hinzugef\u00fcgt, g\u00fcltig bis 14.06.2025",
+        "user_id": "admin",
+        "username": "OConnor",
+        "timestamp": "2025-05-14 00:52:57"
+    },
+    {
+        "id": "6823e92a275ca3.52484615",
+        "business_id": "68239a6c857c34.63655127",
+        "business_name": "testt",
+        "action": "zertifikat_generiert",
+        "details": "Gewerbeschein generiert von Myles OConnor",
+        "user_id": "admin",
+        "username": "OConnor",
+        "timestamp": "2025-05-14 00:51:54"
+    },
+    {
+        "id": "6823a68dcb5df1.74718055",
+        "business_id": "68239a6c857c34.63655127",
+        "business_name": "testt",
+        "action": "zertifikat_generiert",
+        "details": "Gewerbeschein generiert von Myles OConnor",
+        "user_id": "admin",
+        "username": "OConnor",
+        "timestamp": "2025-05-13 20:07:41"
+    },
+    {
+        "id": "68239a6c8584d5.33546143",
+        "business_id": "68239a6c857c34.63655127",
+        "business_name": "testt",
+        "action": "erstellt",
+        "details": "Neues Unternehmen angelegt mit Gewerbeschein g\u00fcltig bis 10.06.2025",
+        "user_id": "68178e9b8b7284.17116908",
+        "username": "Weber",
+        "timestamp": "2025-05-13 19:15:56"
+    },
+    {
+        "id": "6823592ce451f7.87491846",
+        "business_id": "682293d19ce497.13764249",
+        "business_name": "test",
+        "action": "zertifikat_generiert",
+        "details": "Gewerbeschein generiert von Myles OConnor",
+        "user_id": "admin",
+        "username": "OConnor",
+        "timestamp": "2025-05-13 14:37:32"
+    },
+    {
+        "id": "682359192f53f6.70204149",
+        "business_id": "682293d19ce497.13764249",
+        "business_name": "test",
+        "action": "zertifikat_generiert",
+        "details": "Gewerbeschein generiert von Myles OConnor",
+        "user_id": "admin",
+        "username": "OConnor",
+        "timestamp": "2025-05-13 14:37:13"
+    },
+    {
+        "id": "68229441631359.93179349",
+        "business_id": "682293d19ce497.13764249",
+        "business_name": "test",
+        "action": "zertifikat_generiert",
+        "details": "Gewerbeschein generiert von James Rhodes",
+        "user_id": "68141f488ea9a1.42837906",
+        "username": "Rhodes",
+        "timestamp": "2025-05-13 00:37:21"
+    },
+    {
+        "id": "68229421209177.09189312",
+        "business_id": "682293d19ce497.13764249",
+        "business_name": "test",
+        "action": "zertifikat_generiert",
+        "details": "Gewerbeschein generiert von Myles OConnor",
+        "user_id": "admin",
+        "username": "OConnor",
+        "timestamp": "2025-05-13 00:36:49"
+    },
+    {
+        "id": "682293d19cead1.65623389",
+        "business_id": "682293d19ce497.13764249",
+        "business_name": "test",
+        "action": "erstellt",
+        "details": "Neues Unternehmen angelegt mit Gewerbeschein g\u00fcltig bis 10.06.2025",
+        "user_id": "68141f488ea9a1.42837906",
+        "username": "Rhodes",
+        "timestamp": "2025-05-13 00:35:29"
+    }
+]

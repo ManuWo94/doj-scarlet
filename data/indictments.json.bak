@@ -1,0 +1,32 @@
+[
+    {
+        "case_id": "680d00da5eddb2.98971144",
+        "content": "dddd",
+        "prosecutor_id": "admin",
+        "prosecutor_name": "OConnor",
+        "status": "angenommen",
+        "id": "680d1a9de819f8.53301735",
+        "date_created": "2025-04-26 17:40:45",
+        "processor_id": "admin",
+        "processor_name": "OConnor",
+        "process_date": "2025-04-26 17:47:41",
+        "decision_history": [
+            {
+                "status": "angenommen",
+                "date": "2025-04-26 17:47:41",
+                "processor_id": "admin",
+                "processor_name": "OConnor"
+            }
+        ],
+        "date_updated": "2025-04-26 17:47:41"
+    },
+    {
+        "case_id": "680d1211ee37b0.94453286",
+        "content": "111",
+        "prosecutor_id": "admin",
+        "prosecutor_name": "OConnor",
+        "status": "ausstehend",
+        "id": "680d1af723d8d2.13725581",
+        "date_created": "2025-04-26 17:42:15"
+    }
+]

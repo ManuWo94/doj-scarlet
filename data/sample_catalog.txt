@@ -1,0 +1,53 @@
+Kategorie: Vergehen an Personen
+Verstoß: Mord
+Bußgeld: 1000
+Haftzeit: 60
+Notizen: Schwerstes Verbrechen nach dem Strafgesetzbuch
+
+Kategorie: Vergehen an Personen
+Verstoß: Totschlag
+Bußgeld: 800
+Haftzeit: 40
+Notizen: Tötung ohne Vorsatz
+
+Kategorie: Vergehen an Personen
+Verstoß: Körperverletzung
+Bußgeld: 500
+Haftzeit: 30
+Notizen: Verletzung mit Absicht
+
+Kategorie: Vergehen an Eigentum
+Verstoß: Bankraub
+Bußgeld: 1000
+Haftzeit: 60
+Notizen: Schwerer Raub mit Waffe
+
+Kategorie: Vergehen an Eigentum
+Verstoß: Raub
+Bußgeld: 800
+Haftzeit: 45
+Notizen: Gewaltsame Wegnahme
+
+Kategorie: Vergehen an Eigentum
+Verstoß: Diebstahl
+Bußgeld: 250
+Haftzeit: 25
+Notizen: Stehlen ohne Gewalt
+
+Kategorie: Vergehen an der öffentlichen Ordnung
+Verstoß: Sachbeschädigung
+Bußgeld: 200
+Haftzeit: 0
+Notizen: Beschädigung fremden Eigentums
+
+Kategorie: Vergehen an der öffentlichen Ordnung
+Verstoß: Erregung öffentlichen Ärgernisses
+Bußgeld: 150
+Haftzeit: 5
+Notizen: Störung der öffentlichen Ruhe
+
+Kategorie: Verkehrsdelikte
+Verstoß: Überschreitung der Geschwindigkeit
+Bußgeld: 100
+Haftzeit: 0
+Notizen: Zu schnelles Reiten oder Fahren

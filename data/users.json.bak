@@ -1,0 +1,11 @@
+[
+    {
+        "id": "admin",
+        "username": "OConnor",
+        "password": "$2y$10$pStXWbYwq2zkWBDywg6qq.OHg4qkH\/57sbi49pb6RedQB7yr6.aku",
+        "role": "Administrator",
+        "is_admin": true,
+        "status": "active",
+        "date_created": "2025-04-26 15:34:09"
+    }
+]
